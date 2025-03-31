@@ -5,5 +5,6 @@ author 'Massy007 Scripts enginetoggle'
 description 'Massy007 Script engine toggle'
 version '1.0.0'
 
-shared_script 'shared.lua'
+shared_script 'config.lua'
+
 client_script 'client.lua'
